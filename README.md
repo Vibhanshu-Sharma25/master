@@ -1,6 +1,5 @@
 # Whatsapp Integration with Ecommerce
 "Ecommerce giants can use the WhatsApp Business platform or Whatsapp API for their e-commerce stores. By having a Whatsapp-integrated e-commerce store, they can consistently stay in touch with their customers, and increase brand recognition and recall Ultimately, they can use Whatsapp Business for e-commerce to improve the most important factor behind any business success – customer experiences.   Idea is to create whatsapp shop using whatsapp business APIs"
-# Notification variables used
 Order Objects (sales_order)
 {{var order.id}},
 {{var order.state}},
