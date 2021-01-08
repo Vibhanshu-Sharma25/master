@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../../../lib/internal/Magento/Framework/Module/etc/module.xsd">
+    <module name="Technovibs_Whatsapptwilioapi" setup_version="1.0.0" schema_version="1.0.0">
+        <sequence>
+            <module name="Technovibs_Whatsappbasic"/>
+        </sequence>
+    </module>
+</config>
