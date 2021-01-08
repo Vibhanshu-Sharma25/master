@@ -3,7 +3,7 @@
 # Notification variables used
 Order Objects (sales_order)
 ---------------------------------------
-{{var order.id}},
+"{{var order.id}},
 {{var order.state}},
 {{var order.status}},
 {{var order.coupon_code}},
@@ -69,4 +69,4 @@ CUSTOMER Objects (customer_entity)
 {{var customer.lastname}}
 {{var customer.email}}
 {{var customer.created_in}}
-{{var customer.created_at}}
+{{var customer.created_at}}"
